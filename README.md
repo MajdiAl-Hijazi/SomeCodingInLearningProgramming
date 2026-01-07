@@ -1,1 +1,1 @@
-[README.docx](https://github.com/user-attachments/files/24468837/README.docx)
+My personal C++ practice projects during learning journey in Course 05 - Algorithms & Problem - Solving–Level 2 with Dr. Mohamed Abu Hadhoud
